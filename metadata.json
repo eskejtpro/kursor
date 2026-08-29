@@ -1,0 +1,6 @@
+{
+  "name": "KursorAssist - Windows Quick Access HUD & Taskbar Roller",
+  "description": "Pływające okienko ułatwień dostępu wokół kursora i rolka paska zadań: mowa na tekst (STT), OCR ze zrzutu ekranu, tłumacz na polski, przypinanie okien na wierzch (Always on Top), ubijanie zawieszonych procesów (Force Kill), wyciszanie mikrofonu i szybki czat AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
